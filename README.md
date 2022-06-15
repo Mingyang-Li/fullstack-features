@@ -2,21 +2,23 @@
 
 ## 📚 A collection of language agnostic core fullstack features for almost every application
 
-👶 When I first began learning to code, I often hear people tell me to learn xxx technology, as if it's a magic pill. But no, there is no magic pill, there's also not a single language or framework that guarantees you a job in the field if you only grasp the basics of it.
+### 👶 When I first began learning to code, I often hear people tell me to learn xxx technology, as if it's a magic pill. But no, there is no magic pill, there's also not a single language or framework that guarantees you a job in the field if you only grasp the basics of it.
 
-💊 Users don't give a sh-t whether your app uses `Redux` or `Zustand` for state management, `REST` or `GraphQL` for APIs, nor do they care about which buttons you clicked in `AWS` console to deploy your infrastructure. All they care about, is whether your software is solving the problem(s) you promised them it'll solve.
+记得我刚开始学编程的时候，周围大部分人都跟我说要学某样技术，什么 Java 啦，.NET 啦, SQL 啦，Python 啦，好像学会这些就能找到工作似的，实则不然。只会技术本身没有 Diao 用，关键是你会用这门技术能不能做出用户能用的功能，做出来产品用户喜不喜欢用。
 
-🤷 So, why does it have anything to do with fullstack features?
+### 💊 Users don't give a sh-t whether your app uses `Redux` or `Zustand` for state management, `REST` or `GraphQL` for APIs, nor do they care about which buttons you clicked in `AWS` console to deploy your infrastructure. All they care about, is whether your software is solving the problem(s) you promised them it'll solve.
 
-🧑‍🤝‍🧑 Well, your code, your infrastructures and your databases are all built FOR EACH OTHER, they're rather useless on their own.
+### 🤷 So, why does it have anything to do with fullstack features?
 
-📜 Reading documentations and making toy projects alone doesn't teach you as much. The concepts of `refetchQueries` and `Reactive Variables` in Apollo GraphQL were jibberish to me until I had to save AWS bills by reducing duplicated API queries using `InMemoryCache`.
+### 🧑‍🤝‍🧑 Well, your code, your infrastructures and your databases are all built FOR EACH OTHER, they're rather useless on their own.
 
-🎥 I could list out a ton lot more examples of how I learnt things, and I can be 100% sure with you that none of them came from following YT tutorials or reading documentations alone.
+### 📜 Reading documentations and making toy projects alone doesn't teach you as much. The concepts of `refetchQueries` and `Reactive Variables` in Apollo GraphQL were jibberish to me until I had to save AWS bills by reducing duplicated API queries using `InMemoryCache`.
 
-🍹 Most applications (in web 2 at least) are essentially fancy spreadsheets doing CRUD operations on the cloud. Different languages and frameworks simply do things in different ways, and some companies prefer certain frameworks over others, but the underlying core features remain the same: fancy CRUD operations.
+### 🎥 I could list out a ton lot more examples of how I learnt things, and I can be 100% sure with you that none of them came from following YT tutorials or reading documentations alone.
 
-⬇️ Below is a list of features that almost every application has, which we, as people trying to learn to code better be aware of during our learning process
+### 🍹 Most applications (in web 2 at least) are essentially fancy spreadsheets doing CRUD operations on the cloud. Different languages and frameworks simply do things in different ways, and some companies prefer certain frameworks over others, but the underlying core features remain the same: fancy CRUD operations.
+
+### ⬇️ Below is a list of features that almost every application has, which we, as people trying to learn to code better be aware of during our learning process
 
 | Feature                                                 | How it roughly works                                                                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
