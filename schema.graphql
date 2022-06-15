@@ -1,0 +1,28 @@
+input AcceptEnterpriseAdministratorInvitationInput {
+  """
+  A unique identifier for the client performing the mutation.
+  """
+  clientMutationId: String
+
+  """
+  The id of the invitation being accepted
+  """
+  invitationId: ID!
+}
+
+type AcceptEnterpriseAdministratorInvitationPayload {
+  """
+  A unique identifier for the client performing the mutation.
+  """
+  clientMutationId: String
+
+  """
+  The invitation that was accepted.
+  """
+  invitation: EnterpriseAdministratorInvitation
+
+  """
+  A message confirming the result of accepting an administrator invitation.
+  """
+  message: String
+}
