@@ -3,10 +3,11 @@
 ## 📚 A collection of language agnostic core fullstack features for almost every application
 
 👶 When I first began learning to code, I often hear people tell me to learn xxx technology, as if it's a magic pill. But no, there is no magic pill, there's also not a single language or framework that guarantees you a job in the field if you only grasp the basics of it.
-
 记得我刚开始学编程的时候，周围大部分人都跟我说要学某样技术，什么 Java 啦，.NET 啦, SQL 啦，Python 啦，好像学会这些就能找到工作似的，实则不然。只会技术本身没有 Diao 用，关键是你会用这门技术能不能做出用户能用的功能，做出来产品用户喜不喜欢用。
+<br>
 
 💊 Users don't give a sh-t whether your app uses `Redux` or `Zustand` for state management, `REST` or `GraphQL` for APIs, nor do they care about which buttons you clicked in `AWS` console to deploy your infrastructure. All they care about, is whether your software is solving the problem(s) you promised them it'll solve.
+你的用户并不在乎你的前端到底用的是 Redux 还是 Zustand，API 是 REST 还是 GraphQL，也没有用户真正关心你为了云部署在亚马逊云控制台上点击了多少杂七杂八的按钮。他们真正关心的，是你的软件到底能不能帮用户解决你承诺过的这款软件所能解决的商业需求。
 
 🤷 So, why does it have anything to do with fullstack features?
 
